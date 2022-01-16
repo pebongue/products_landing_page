@@ -26,3 +26,6 @@ INSTRUCTIONS:
 
 // Once you have read the above messages, you can delete all comments. 
 "use strict";
+// coded by @ONJoseph
+// eslint-disable-next-line no-unused-vars
+const projectName = 'product-landing-page';
